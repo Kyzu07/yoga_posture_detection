@@ -25,13 +25,9 @@ Maintaining physical health through yoga is a widely acknowledged at-home exerci
 
 A detailed experiment was conducted, resulting in a 95% accuracy rate for yoga pose detection. The experiment focused on addressing the challenges associated with finding suitable yoga instructors by providing an accessible and automated solution for individuals.
 
-## Usage
-
-To explore and utilize the Yoga Pose Detection system, refer to the [**Usage Guide**](./docs/usage.md).
-
 ## Results
 
-For a comprehensive overview of the experiment results and performance metrics, please check the [**Results**](./docs/results.md) section.
+For a comprehensive overview of the experiment results and performance metrics, please check the [**sample**](.sample/) section.
 
 ## Index Terms
 
